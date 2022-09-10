@@ -2,35 +2,42 @@
 SISTEMA WEB DE ADMINISTRACION DE CONSULTAS MEDICAS PARA OPTIMIZAR SU ADMINISTRACION
 
 PROBLEMA
+
 El seguro universitario de salud tiene problemas al gestionarlas consultas a los pacientes, ay largas filas y hace falta un sistema que de la comodidad de administrar consultas.
+
 PROPUESTA GENERAL DE SOLUCIÓN
+
 Elaborar un sistema que permita hacer reservas a consultas de hospitales de primer, segundo y tercer nivel. Reservar un cupo a posibles pacientes, realizar un traspaso a un hospital especializado de segundo o tercer nivel con la autorizacion y el administrador del hospital  de primer nivel. Poder tener notificaciones de consultas, datos del paciente, doctor, posibles cambios de horario si fuera necesario.
+
 VALOR PARA EL NEGOCIO
+
 Es sistema de reservas ayudara en gran manera a los pacientes evitando largas colas y propagacion del covid. Permitira que los pacientes tengan notiificaciones para que no olviden sus citas medicas. Permitira hacer un traspaso rapido y definir rapidamente un horario de cita. Optimizar el tiempo de asignacion de personal a los posibles pacientes. 
+
 TANGIBLE
+
 * Obtener notificaciones acerca de consultas proximas
 * Evitar colas largas para reserva de consulta.
 * Reducir los pasos para un traspaso de hospital para el pacientes
+
 INTANGIBLE
+
 * Mayor comodidad de los pacientes
 * Mayor comodidad de los medicos
 * Mayor facilidad para los administradores
+
 FACTIBILIDAD (ANÁLISIS DE RIESGOS)
+
 ECONOMICA
+
 * El sistema costara 25000 bs.
+
 TECNICA
+
 * Se necesitará diseñar la base de datos en postgres.
 * Se necesitara capacitacion para el uso del sistema
 * Se necesitara un servidor para alojar a el sisttema
+
 LISTADO DE REQUERIMIENTOS CON HISTORIAS DE USUARIOS
-Narrativa
-Como: 
-Quiero: 
-De forma que: 
-
-DEPENDENCIA:
-
-(si depende de alguna otra historia de usuario)
 
 
 
